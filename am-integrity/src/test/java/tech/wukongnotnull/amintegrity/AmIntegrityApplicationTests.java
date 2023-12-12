@@ -1,10 +1,10 @@
-package com.wukongnotnull.am;
+package tech.wukongnotnull.amintegrity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AccessMasterApplicationTests {
+class AmIntegrityApplicationTests {
 
     @Test
     void contextLoads() {
